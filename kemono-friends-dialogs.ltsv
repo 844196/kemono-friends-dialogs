@@ -1112,7 +1112,8 @@ speaker:ツチノコ	quote:いるな。
 speaker:かばん	quote:ひえっ！
 speaker:ツチノコ	quote:あんまり近づくな。数、いるぞ。
 speaker:サーバル	quote:へーきへーき。壁の向こうだし。それに、わたしの爪でやっつけちゃうよ。
-speaker:ツチノコ,k	quote:わあー！後ろ！後ろ！
+speaker:ツチノコ	quote:わあー！後ろ！後ろ！
+speaker:かばん	quote:わあー！後ろ！後ろ！
 speaker:サーバル	quote:ううぎゃあー！
 speaker:ツチノコ	quote:何やってるんだー！お前はー！
 speaker:サーバル	quote:ごめん、ごめん、ごめんー！
@@ -1984,7 +1985,7 @@ speaker:かばん	quote:うわあー。
 speaker:サーバル	quote:うわあー。
 speaker:助手	quote:ここで、料理について調べてもいいのです。
 speaker:博士	quote:クイズの森を突破できたということは、文字が読めるということ。調べながら、食材を使って作るのです。
-speaker:カバン	quote:ううん…？
+speaker:かばん	quote:ううん…？
 speaker:サーバル	quote:ううん…？
 speaker:博士	quote:それでは、スタートです。
 speaker:サーバル	quote:えっ。
@@ -2090,7 +2091,7 @@ speaker:助手	quote:こんなに刺激が強いなんて…。
 speaker:サーバル	quote:食べてるじゃん！
 speaker:博士	quote:これは…なぜか…やめられないのです。
 speaker:助手	quote:病み付きです。これが…料理ですか…。
-speaker:カバン	quote:あはっ。
+speaker:かばん	quote:あはっ。
 speaker:サーバル	quote:あはっ。
 speaker:助手	quote:合格、です。
 speaker:博士	quote:教えてやるので、おかわりをよこすのです。
@@ -2608,7 +2609,7 @@ speaker:かばん	quote:サーバルちゃん、ここももしかして、ア�
 speaker:サーバル	quote:えっ？
 speaker:ミライ	quote:いや〜〜、セルリアンの調査に来て、温泉が見つかるとはー。
 speaker:ミライ	quote:ふぁ〜〜。
-speaker:カバン	quote:あっ。
+speaker:かばん	quote:あっ。
 speaker:サーバル	quote:あっ。
 speaker:ミライ	quote:あ…じゃ、なくって。おほん。
 speaker:ミライ	quote:昨日の事件を見るに、セルリアンは、サンドスターを奪っている…というか、食べているのではと考えられます。ですので、万一フレンズさんが食べられた場合、サンドスター由来の技や、個性が消滅、元動物に戻る、消滅してしまう…などありえるのではと。まだ予測の域ですが。
